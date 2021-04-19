@@ -1,0 +1,99 @@
+.name_Of_days{
+    font-weight:bold
+}
+.sunday{
+    color:red;
+    font-weight: bold;
+}
+td{
+    
+   
+    width:10%;
+   
+}
+div{
+  margin-bottom:2%;
+}
+td:hover{
+    background-color:teal;
+    opacity: 0.4;
+    font-weight: bold;
+}
+.img_conatiner{
+  margin-top: 0vh;
+}
+
+.prev_or_next{
+    color:grey;
+    /* opacity:0.6; */
+}
+.holidays_in_india
+{
+    color:darkgoldenrod;
+    font-size: 0.9em;
+}
+.holidays_in_dallas
+{
+    color:cadetblue;
+    font-size: 0.9em;
+}
+caption{
+    font-weight: bolder;
+}
+img{
+  width:50%;
+  height: 30%;
+}
+.center{
+ 
+  display: block;
+  margin-left: 25%;
+margin-right: 25%;
+  width: 50%;
+  }
+  .center_dropdown{
+    display: block;
+    margin-left: 25%;
+  margin-right: 25%;
+    width: 50%;
+  }
+  .button_size{
+    width:auto;
+    height:auto;
+  }
+  .my-menu{
+    text-align: center;
+  }
+  .welcome{
+    margin:10vh;
+  }
+  .center_table{
+    margin-left: auto;
+    margin-right:auto;
+  }
+  .center_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .fest-description-india{
+  padding:5px;
+      width: 300px;
+      margin: auto;
+      border: 2px dotted darkgoldenrod;
+      margin-bottom:10px;
+    
+  }
+  .fest-description-dallas{
+    padding:5px;
+      width: 300px;
+      margin: auto;
+      border: 2px dotted cadetblue;
+      margin-bottom:10px;
+  }.form{
+    width:45%;
+    padding: 10px;
+  }
+  
+  
